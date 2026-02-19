@@ -20,7 +20,8 @@ This system aims to reduce that friction by using an LLM to assist interviewers 
 
 Tech Stack:
 Python
-OpenAI SDK (GPT-3.5-Turbo)
+OpenAI SDK 
+LLM: llama3-70b-8192
 Streamlit (UI)
 Pydantic (output schema validation)
 uv (package management)
