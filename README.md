@@ -21,7 +21,7 @@ This system aims to reduce that friction by using an LLM to assist interviewers 
 Tech Stack:
 Python
 OpenAI SDK 
-LLM: llama3-70b-8192
+LLM: llama-3.3-70b-versatile
 Streamlit (UI)
 Pydantic (output schema validation)
 uv (package management)
