@@ -22,10 +22,4 @@ def call_llm(
     )
     return response.choices[0].message.content
 
-result = call_llm(
-    system_prompt="You are a helpful assistant that generates questions based on the given context.",
-    user_prompt="Generate 5 multiple choice questions about artificial intelligence."
-)
-
-print(result)
 
