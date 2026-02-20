@@ -23,8 +23,22 @@ QUESTION GUIDELINES:
 - Questions should be open-ended and suitable for follow-up discussion.
 - Avoid trivia or yes/no questions.
 
+BEHAVIORAL QUESTIONS:
+Generate behavioral questions aligned with role expectations
+Focus on areas such as:
+- Communication
+- Ownership and accountability
+- Team collaboration
+- Conflict resolution
+Avoid repetitive or boilerplate behavioral questions
+
 EVALUATION RUBRICS:
 - Provide evaluation rubrics for both technical and behavioral sections.
+Produce a structured evaluation rubric covering:
+- Technical accuracy
+- Depth of understanding
+- Problem-solving approach
+- Communication clarity
 - Rubrics must use ONLY the following levels:
   - Strong
   - Average

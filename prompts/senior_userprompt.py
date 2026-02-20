@@ -1,6 +1,5 @@
-from variables import role
-
-senior_user_prompt = f"""
+def build_senior_user_prompt(role: str) -> str:
+    return f"""
 Job Role: {role}
 Experience Level: Senior (4+ years)
 

@@ -11,3 +11,5 @@ def validate_output(output: str):
     
     if any(word in output.lower() for word in ["points", "%", "score", "marks"]):
         raise ValueError("Evaluation rubrics should not contain points or scores.")
+
+    return output

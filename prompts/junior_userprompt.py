@@ -1,6 +1,5 @@
-from variables import role
-
-junior_user_prompt = f"""
+def build_junior_user_prompt(role: str) -> str:
+    return f"""
 Job Role: {role}
 Experience Level: Junior (0–1 years)
 

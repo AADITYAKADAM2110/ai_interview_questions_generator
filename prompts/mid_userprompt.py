@@ -1,6 +1,5 @@
-from variables import role
-
-mid_user_prompt = f"""
+def build_mid_user_prompt(role: str) -> str:
+    return f"""
 Job Role: {role}
 Experience Level: Mid-level (2-4 years)
 
