@@ -1,4 +1,4 @@
-role = "School Teacher"
+from variables import role
 
 senior_user_prompt = f"""
 Job Role: {role}

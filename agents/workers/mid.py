@@ -21,7 +21,5 @@ mid_agent = Agent(
     user_prompt = mid_user_prompt
 )
 
-response = mid_agent.run()
-print(response)
 
 

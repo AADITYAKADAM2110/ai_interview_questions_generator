@@ -21,7 +21,5 @@ senior_agent = Agent(
     user_prompt = senior_user_prompt
 )
 
-response = senior_agent.run()
-print(response)
 
 
