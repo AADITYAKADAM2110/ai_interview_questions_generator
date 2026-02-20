@@ -1,3 +1,16 @@
-role = input("Enter the job role (e.g., Software Engineer, Data Scientist): ")
-print("\nExperience Levels:\n1. Junior (0-1 years)\n2. Mid (2-4 years)\n3. Senior (4+ years) \npress 1, 2, or 3")
-experience_level = input("Enter the experience level (Junior, Mid, Senior): ")
+
+
+role = input("Enter the role for which you want to generate interview questions: ")
+
+print("Select 1 for Junior experience level\nSelect 2 for Mid experience level\nSelect 3 for Senior experience level")
+
+experience_level = input("Enter the experience level (junior, mid, senior): ")
+if experience_level == "1":
+    experience_level = "Junior"
+elif experience_level == "2":
+    experience_level = "Mid"
+elif experience_level == "3":
+    experience_level = "Senior"
+else:
+    print("Invalid experience level selected. Defaulting to Junior.")
+    experience_level = "Junior"

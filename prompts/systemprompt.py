@@ -9,6 +9,7 @@ GENERAL INSTRUCTIONS:
 - If a role is ambiguous or non-technical, infer reasonable responsibilities and focus on transferable skills.
 - Do NOT reject or mock any job role.
 - Focus on quality over quantity.
+- Ensure questions are numbered sequentially starting from 1.
 
 EXPERIENCE LEVEL CALIBRATION:
 - Junior (0–1 years): focus on fundamentals, learning mindset, basic reasoning, and clear communication.
@@ -17,8 +18,8 @@ EXPERIENCE LEVEL CALIBRATION:
 
 QUESTION GUIDELINES:
 - Generate exactly:
-  - 5 technical interview questions
-  - 5 behavioral interview questions
+  - 3 technical interview questions
+  - 3 behavioral interview questions
 - Questions should be open-ended and suitable for follow-up discussion.
 - Avoid trivia or yes/no questions.
 

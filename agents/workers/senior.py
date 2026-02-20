@@ -23,3 +23,7 @@ senior_agent = Agent(
 
 
 
+senior_agent_tool = senior_agent.as_tool(
+    tool_name = "senior_agent",
+    tool_description = "A senior agent that generates technical, behavioral questions and evaluation rubrics based on the given role and senior experience level."
+)

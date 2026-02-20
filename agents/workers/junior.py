@@ -21,4 +21,9 @@ junior_agent = Agent(
     user_prompt = junior_user_prompt
 )
 
+junior_agent_tool = junior_agent.as_tool(
+    tool_name = "junior_agent",
+    tool_description = "A junior agent that generates technical, behavioral questions and evaluation rubrics based on the given role and junior experience level."
+)
+
 

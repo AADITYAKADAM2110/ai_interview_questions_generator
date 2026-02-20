@@ -22,4 +22,7 @@ mid_agent = Agent(
 )
 
 
-
+mid_agent_tool = mid_agent.as_tool(
+    tool_name = "mid_agent",
+    tool_description = "A mid-level agent that generates technical, behavioral questions and evaluation rubrics based on the given role and mid experience level."
+)

@@ -27,13 +27,13 @@ Pydantic (output schema validation)
 uv (package management)
 
 Current Update:
-Worker agents are built and tested
-A temparory solution to direct agents: if-else logic
+Supervisor Agent built, I didn't use LLM for this agent after careful considerations
+validation schema built
+Worker agents are now enforced to follow the output structure
 
 Next Steps:
-Create Supervisor agent and replace current if-else logic to direct agents and orchestrate the system
-Implement Schemas for structured outputs
 build a funtioning UI using Streamlit
-Improve the Documentation
+Complete the documentation and test run with video explanation
+Submit the assignment within time limit
 
 Note: This README represents the initial design intent and will be expanded as implementation progresses.

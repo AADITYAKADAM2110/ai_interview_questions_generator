@@ -14,7 +14,7 @@ Output structure:
 Technical Interview Questions
 1. Question 1
 ...
-Bheavioral Interview Questions
+Behavioral Interview Questions
 1. Question 1
 ...
 Evaluation Rubrics
