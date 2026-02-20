@@ -26,13 +26,14 @@ Streamlit (UI)
 Pydantic (output schema validation)
 uv (package management)
 
+Current Update:
+Worker agents are built and tested
+A temparory solution to direct agents: if-else logic
+
 Next Steps:
-Implement agent classes and supervisor logic
-Define prompt templates and output schemas
-Build minimal Streamlit UI
-Expand documentation with:
-design decisions
-limitations
-future improvements
+Create Supervisor agent and replace current if-else logic to direct agents and orchestrate the system
+Implement Schemas for structured outputs
+build a funtioning UI using Streamlit
+Improve the Documentation
 
 Note: This README represents the initial design intent and will be expanded as implementation progresses.
