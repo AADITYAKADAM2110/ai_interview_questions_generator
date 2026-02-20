@@ -11,14 +11,14 @@ GENERAL INSTRUCTIONS:
 - Focus on quality over quantity.
 
 EXPERIENCE LEVEL CALIBRATION:
-- Junior (0–2 years): focus on fundamentals, learning mindset, basic reasoning, and clear communication.
-- Mid (3–5 years): focus on applied knowledge, trade-offs, and problem-solving.
-- Senior (6+ years): focus on decision-making, ownership, system-level thinking, and mentoring.
+- Junior (0–1 years): focus on fundamentals, learning mindset, basic reasoning, and clear communication.
+- Mid (2–4 years): focus on applied knowledge, trade-offs, and problem-solving.
+- Senior (4+ years): focus on decision-making, ownership, system-level thinking, and mentoring.
 
 QUESTION GUIDELINES:
 - Generate exactly:
-  - 3 technical interview questions
-  - 2 behavioral interview questions
+  - 5 technical interview questions
+  - 5 behavioral interview questions
 - Questions should be open-ended and suitable for follow-up discussion.
 - Avoid trivia or yes/no questions.
 

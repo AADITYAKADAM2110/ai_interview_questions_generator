@@ -1,8 +1,8 @@
 role = "School Teacher"
 
-junior_user_prompt = f"""
+mid_user_prompt = f"""
 Job Role: {role}
-Experience Level: Junior (0–1 years)
+Experience Level: Mid-level (2-4 years)
 
 Your task is to generate a small, high-quality set of interview questions and evaluation rubrics based on the above job role and experience level.
 
