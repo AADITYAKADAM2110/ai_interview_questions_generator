@@ -1,5 +1,4 @@
 import streamlit as st
-from main import main
 from schemas.validator import validate_output
 
 if __name__ == "__main__":
@@ -13,6 +12,8 @@ if __name__ == "__main__":
     if st.button("Generate Interview Questions"):
         with st.spinner("Generating questions..."):
             try:
+                from main import main
+
                 output = main(role, experience_level)
                 response = validate_output(output)
             except Exception as e:
